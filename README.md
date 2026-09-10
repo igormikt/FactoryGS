@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/igormikt/FactoryGS">
+    <img src="assets/images/cover.png" width="1200" alt="FactoryGS"/>
+  </a>
+</p>
+
 # FactoryGS — автоматический отчёт в Google Sheets 📊
 
 Проект-прототип: **генератор отчётов о продажах** с записью в Google Таблицу.
