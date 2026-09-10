@@ -26,6 +26,24 @@ Desktop-приложение на tkinter формирует случайные 
   при превышении квоты (HTTP 429) операция автоматически повторяется через 61 секунду.
 - Конфигурация через `.env`; JSON-ключ сервисного аккаунта находится в папке проекта автоматически.
 
+  <p align="center">
+  <a href="https://github.com/igormikt/FactoryGS">
+    <img src="assets/images/list.jpg" width="1200" alt="FactoryGS"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/igormikt/FactoryGS">
+    <img src="assets/images/report_sheet.jpg" width="1200" alt="FactoryGS"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/igormikt/FactoryGS">
+    <img src="assets/images/generator.jpg" width="1200" alt="FactoryGS"/>
+  </a>
+</p>
+
 ## Стек
 
 Python 3.11+ · google-api-python-client · google-auth · google-auth-httplib2 · tkinter (стандартная библиотека)
